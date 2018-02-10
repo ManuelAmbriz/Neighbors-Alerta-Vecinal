@@ -1,0 +1,6 @@
+framework module Pods_Neighbors_AlertaVecinal {
+  umbrella header "Pods-Neighbors AlertaVecinal-umbrella.h"
+
+  export *
+  module * { export * }
+}
